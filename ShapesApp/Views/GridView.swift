@@ -7,10 +7,10 @@
 
 import SwiftUI
 
-// GridView is used by both ShapesGridView and EditCirclesView
+// GridView is used by both ContentView and EditCirclesView
 // EditCircleView sets onlyCircles to true to not show squares or rectangles
 //
-// Tried to make grid layout adaptive to device, assignment did not really provide guidance on this
+// Tried to make grid layout adaptive to device, assessment did not really provide guidance on this
 //
 // Scrolling is not really addressed on whether you should scroll to bottom after adding/removing shape.
 //
